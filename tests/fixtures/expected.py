@@ -1,2 +1,10 @@
-def func(new_name, arg2):
-    print('{0}, arg{1}'.format(new_name, arg2))
+class HardTest:
+
+    def is_test(self):
+        return True
+
+    def is_prod(self):
+        return False
+
+def function_return_magic():
+    return 134
