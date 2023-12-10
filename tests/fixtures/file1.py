@@ -9,3 +9,7 @@ class Test:
 
 def magic_number():
     return 134
+
+
+class Test1:
+    value: int
